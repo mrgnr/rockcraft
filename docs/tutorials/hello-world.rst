@@ -4,7 +4,7 @@ Create a "Hello World" ROCK
 Prerequisites
 -------------
 - snap enabled system (https://snapcraft.io)
-- LXD installed (https://linuxcontainers.org/lxd/getting-started-cli/)
+- LXD installed (https://documentation.ubuntu.com/lxd/en/latest/installing/)
 - skopeo installed (https://github.com/containers/skopeo)
 - Docker installed (https://snapcraft.io/docker)
 - a text editor

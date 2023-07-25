@@ -4,7 +4,7 @@ Migrate a popular Docker image to a Chiselled ROCK
 Prerequisites
 -------------
 - snap enabled system (https://snapcraft.io)
-- LXD installed (https://linuxcontainers.org/lxd/getting-started-cli/)
+- LXD installed (https://documentation.ubuntu.com/lxd/en/latest/installing/)
 - skopeo installed (https://github.com/containers/skopeo).
   Skopeo will also be automatically installed as a Rockcraft dependency
 - Docker installed (https://snapcraft.io/docker)

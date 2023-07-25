@@ -4,7 +4,7 @@
 .. _Docker: https://docs.docker.com/
 .. _`OCI archive format`: https://github.com/opencontainers/image-spec/blob/main/layer.md#distributable-format
 .. _OCI_image_spec: https://github.com/opencontainers/image-spec/blob/main/spec.md
-.. _LXD: https://linuxcontainers.org/lxd/docs/latest/
+.. _LXD: https://documentation.ubuntu.com/lxd/en/latest/
 .. _Multipass: https://multipass.run/docs
 .. _`Open Container Initiative`: https://opencontainers.org/
 .. _skopeo: https://github.com/containers/skopeo

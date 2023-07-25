@@ -16,7 +16,7 @@ By the end of this tutorial you will be able to run pyfiglet via docker:
 Prerequisites
 -------------
 - snap enabled system (https://snapcraft.io)
-- LXD installed (https://linuxcontainers.org/lxd/getting-started-cli/)
+- LXD installed (https://documentation.ubuntu.com/lxd/en/latest/installing/)
 - skopeo installed (https://github.com/containers/skopeo).
   Skopeo will also be automatically installed as a Rockcraft dependency
 - Docker installed (https://snapcraft.io/docker)
